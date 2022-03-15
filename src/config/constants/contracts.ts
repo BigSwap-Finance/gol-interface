@@ -1,10 +1,10 @@
 export default {
   masterChef: {
     97: '',
-    56: '0x2F1281A9f84CF6f551dB39156D32A5D6153F25a5',
+    56: '0x65FE214382fD9e0d6cF054EeD65C150C88ed6834',
   },
   cakeVault: {
-    56: '0x994cFb1Ea386e73C0E7Ef5c6846E7AE32d7E9428',
+    56: '0x999B072EEd7c671D01Dd3C8563a4890Ff7083203',
     97: '',
   },
   multiCall: {
