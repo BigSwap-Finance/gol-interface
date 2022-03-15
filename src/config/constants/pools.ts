@@ -6,8 +6,8 @@ const serializedTokens = serializeTokens()
 const pools: SerializedPoolConfig[] = [
   {
     sousId: 11,
-    stakingToken: serializedTokens.gol,
-    earningToken: serializedTokens.gol,
+    stakingToken: serializedTokens.bgsp,
+    earningToken: serializedTokens.bgsp,
     contractAddress: {
       97: '',
       56: '0x65FE214382fD9e0d6cF054EeD65C150C88ed6834', // masterchef gol
