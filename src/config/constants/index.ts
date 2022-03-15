@@ -1,7 +1,7 @@
 import { ChainId, JSBI, Percent, Token } from 'golswap-sdk'
 import { mainnetTokens, testnetTokens } from './tokens'
 
-export const ROUTER_ADDRESS = '0x10C22079c1D0388056e54Be5bf6751D9320F54D1'
+export const ROUTER_ADDRESS = '0x02c15b424d9cb9D34B650E49868bc29723727f68'
 
 // a list of tokens by chain
 type ChainTokenList = {
